@@ -1,1 +1,1 @@
-[{"id":"01","title":"hello","body":"world"}]
+[{"id":"01","title":"first note","body":"Need to do assignments on lab class"},{"id":"03","title":"project","body":"Don't forget to create portfolio design for midterm project"},{"id":"04","title":"assignments","body":"assignment on web app"}]
